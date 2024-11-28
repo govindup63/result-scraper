@@ -19,8 +19,8 @@ This script scrapes all the end-semester results from the DSCE result portal and
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/govindup63/result-scraper.git
+   cd result-scraper 
    ```
 
 2. **Install Dependencies**:
