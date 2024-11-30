@@ -124,7 +124,6 @@ async function fetchResultsForBranch(
   }
 }
 
-// Function to create the parent directory and start fetching results
 function startFetchingResults() {
   const parentDirectory = path.join(__dirname, "../", "Results_PDF"); // Create a folder for all results
   if (!fs.existsSync(parentDirectory)) {
